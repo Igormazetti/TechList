@@ -19,7 +19,7 @@
 ## :dvd: Instalação:
 
 1. Clone este repositorio.
-2. Abra o console<br />
-3. Digite yarn dev <br />
+2. Abra o console.<br />
+3. Digite yarn dev.<br />
 
 
