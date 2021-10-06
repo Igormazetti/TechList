@@ -19,7 +19,7 @@
 ## :dvd: Instalação:
 
 1. Clone este repositorio.
-2. `cd Maratona_Discovery`<br />
-3. Abra o arquivo `index.html` para iniciar o projeto <br />
+2. Abra o console<br />
+3. Digite yarn dev <br />
 
 
